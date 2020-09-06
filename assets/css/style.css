@@ -1,0 +1,524 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*
+========================================
+HEADER START
+========================================
+*/
+.header {
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-image: url(../img/inline_image_preview.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+
+}
+
+.container {
+    width: 1140px;
+    margin: 0px auto;
+}
+
+.logo {
+    width: 50%;
+    float: left;
+}
+
+.logo h4 {
+    font-size: 14px;
+    font-family: verdana;
+    color: #fff;
+}
+
+.logo h4:: {}
+
+.menu {
+    width: 50%;
+    float: left;
+}
+
+.mid {
+    text-align: center;
+}
+
+.menu span {
+    font-size: 14px;
+    color: #fff;
+}
+
+.fas.fa-bars {
+    color: #fff;
+}
+
+.here {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin: 100px 0px;
+
+}
+
+
+.here h1 {
+    font-size: 30px;
+    color: #fff;
+}
+
+.here p {
+    color: #fff;
+}
+
+.here .btn {
+    border: 1px solid #ddd;
+    padding: 3px 28px;
+    color: #fff;
+    transition: 1s;
+    width: 165px;
+    margin: 5px;
+}
+
+.here .btn:hover {
+    background-color: tomato;
+    color: #fff;
+}
+
+
+
+.here .btn_fb:hover {
+    background-color: tomato;
+    color: #fff;
+}
+
+
+.left_button {
+    margin-top: 97px;
+}
+
+.fas.fa-angle-down {
+    border: 2px solid #fff;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+/*
+========================================
+HEADER END
+========================================
+*/
+/*
+========================================
+SECTION START
+========================================
+*/
+.section {
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-color: #ddd;
+}
+
+.area {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.fas.fa-align-justify {
+    font-size: 35px;
+    border: 1px solid #000;
+    border-radius: 50%;
+    width: 81px;
+    height: 81px;
+    line-height: 80px;
+}
+
+.area h3 {
+    font-size: 15px;
+    margin: 10px;
+}
+
+/*
+========================================
+SECTION END
+========================================
+*/
+/*
+========================================
+SERVISES START
+========================================
+*/
+.servises {
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-image: url(../img/inline_image_preview.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.sign-in {
+    margin: 70px auto;
+    text-align: center;
+}
+
+.sign-in input {
+    width: 50%;
+    padding: 7px 0px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+
+.sign-in button {
+    width: 180px;
+    padding: 6px 0px;
+    border: none;
+    background-color: tomato;
+    color: #fff;
+    border-radius: 5px;
+}
+
+/*
+========================================
+SERVISES END
+========================================
+*/
+/*
+========================================
+servise_area START
+========================================
+*/
+.servise_area {
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+}
+
+.content {
+    text-align: center;
+}
+
+.content h2 {
+    font-size: 26px;
+}
+
+.foo p {}
+
+.img_area {
+    width: 100%;
+    padding: 25px 0px;
+    display: flex;
+    margin: 197px;
+    margin-top: 197px;
+    margin-top: 0px;
+}
+
+.banner {
+    width: 33.33%;
+    padding: 25px 0px;
+    display: flex;
+    width: 26.50%;
+}
+
+.em {
+    border-radius: 5px;
+    height: 240px;
+    width: 228px;
+    margin: 20px 13px;
+}
+
+.sm {
+    width: 228px;
+    height: 240px;
+    border-radius: 5px;
+}
+
+.mm {
+    width: 228px;
+    height: 240px;
+    margin: 20px;
+    margin-top: 10px;
+    margin-top: -22px;
+    border-radius: 5px;
+}
+
+.inner_area {
+    width: 100%;
+    float: left;
+    padding: 25px 0;
+    margin: -331px 191px;
+}
+
+.cool {
+    width: 220px;
+    height: 250px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.glade {
+    width: 223px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.manezment {
+    width: 236px;
+    height: 258px;
+    float: left;
+    background-color: tomato;
+    color: #fff;
+    text-align: center;
+    padding: 32px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.manezment h3 {
+    font-size: 20px;
+    font-family: verdana;
+}
+
+.manezment p {
+    text-align: center;
+}
+
+.btn.btn-danger {
+    transition: 1s;
+}
+
+.btn.btn-danger:hover {
+    background-color: #fff;
+    color: tomato;
+}
+
+.more {
+    text-align: center;
+}
+
+.btn.btn-primary {
+    transition: 1s;
+}
+
+.btn.btn-primary:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+/*
+========================================
+servise_area END
+========================================
+*/
+/*
+========================================
+TESTIMONIAL START
+========================================
+*/
+.testimonial {
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-image: url(../img/inline_image_preview.jpg);
+    opacity: 0.8;
+}
+
+.test {
+    text-align: center;
+    color: #fff;
+}
+
+.test img {
+    width: 126px;
+    border-radius: 50%;
+    height: 130px;
+    line-height: 50%;
+}
+
+/*
+========================================
+TESTIMONIAL END 
+========================================
+*/
+/*
+========================================
+INNER_TEAM_AREA START
+========================================
+*/
+.inner_team {
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+}
+
+.content_area {
+    text-align: center;
+}
+
+.content_area h2 {
+    font-size: 25px;
+}
+
+.inner_section {
+    width: 100%;
+    float: left;
+    padding: 25px 0;
+}
+
+.fo_fo {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.fo_fo img {
+    width: 205px;
+    height: 224px;
+    border-radius: 5px;
+}
+
+.fo_fo h3 {
+
+    font-size: 20px;
+    margin: 10px;
+}
+
+.fab.fa-facebook-f {
+    background-color: gray;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 10px;
+    line-height: 22px;
+    width: 20px;
+    height: 21px;
+}
+
+.fab.fa-twitter {
+    background-color: gray;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 10px;
+    line-height: 22px;
+    width: 20px;
+    height: 21px;
+}
+
+.fab.fa-google-plus-g {
+    background-color: gray;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 10px;
+    line-height: 22px;
+    width: 20px;
+    height: 21px;
+}
+
+/*
+========================================
+INNER_TEAM_AREA END
+========================================
+*/
+.section_area {
+    width: 100%;
+    float: left;
+    padding: 25px 0;
+    background-image: url(../img/inline_image_preview.jpg);
+    opacity: 0.8;
+}
+
+.pragrap {
+    text-align: center;
+}
+
+.pragrap h3 {
+    color: #fff;
+}
+
+.pragrap p {
+    color: #fff;
+}
+
+.submit_area {
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    text-align: center;
+}
+
+.submit_area input {
+    width: 25%;
+    margin: 20px;
+    padding: 4px 10px;
+    border-radius: 5px;
+    background-color: #ddd;
+    border: none;
+}
+
+textarea {
+    width: 605px;
+    height: 100px;
+    padding: 10px 10px;
+    background-color: #ddd;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn_fo {
+    width: 146px;
+    float: left;
+    margin: 17px 256px;
+    background-color: tomato;
+    color: #fff;
+    padding: 4px 5px;
+    border-radius: 5px;
+    border: none;
+    transition: 1s;
+}
+
+.btn_fo:hover {
+    background-color: #192a56;
+}
+
+.social_icon {
+    margin: 15px 130px;
+}
+
+
+.footer {
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background-color: #282D33;
+}
+
+.copyright {
+    width: 50%;
+    float: left;
+}
+
+.copyright p {
+    font-size: 10px;
+    margin: 10px 75px;
+    color: #fff;
+}
+
+.SYMU {
+    width: 50%;
+    float: left;
+}
+
+.SYMU p {
+    font-size: 10px;
+    margin: 10px 200px;
+    color: #fff;
+}
